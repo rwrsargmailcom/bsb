@@ -1,0 +1,127 @@
+body {
+  color: #40514E;
+  margin-top: 0;
+  margin-left: 0;
+  text-align: center;
+}
+
+hr{
+  border-style: dotted none none none;
+  border-color: gray;
+  border-width: 10px;
+  width: 20%;
+  margin: 50px auto;
+}
+
+.topbox {
+    background-color: #AFF4FA;
+  position: relative;
+  padding: 90px;
+}
+
+.rrimg {
+  border-radius: 100%;
+}
+
+.codeimg {
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 110px;
+}
+
+.sunimg {
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+h1 {
+  margin: 59px auto 0 auto;
+  margin-left: 0;
+  font-family: 'Great Vibes', cursive;
+  font-size: 75px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5rem;
+  color: #11999E;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.redcenter {margin-top: 25px;}
+.contact-me{margin-bottom: 25px;}
+
+.contacttxt{margin-bottom: 0;}
+
+.bluebottom {  background-color: #AFF4FA;}
+
+.top_cloud {
+  position: absolute;
+  right: 300px;
+  top: 20px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 400px;
+}
+
+.footer-link{text-decoration: none;}
+
+.a{color: #11999E;
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{color: #EAF6F6;}
+
+.myButton {
+	box-shadow:inset 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #6398ed 5%, #1a5eb0 100%);
+	background-color:#6398ed;
+	border-radius:19px;
+	border:3px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Times New Roman;
+	font-size:22px;
+	font-weight:bold;
+	padding:16px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #1a5eb0 5%, #6398ed 100%);
+	background-color:#1a5eb0;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
